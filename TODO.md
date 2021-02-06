@@ -5,4 +5,4 @@
 - [x] Change Log
 - [x] Code File
 - [x] Issues
-- [ ] Upload from command line
+- [ ] Upload from Command Line
